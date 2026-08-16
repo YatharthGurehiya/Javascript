@@ -48,6 +48,30 @@ console.log(typeof myFunction);
 
 
 
+//*********************************************************************// memory
 
+//Stack(Primitive), Heap(Non-Primitive)
+
+//****************************Stack(Ek ke uppar Ek)********************//
+let myYoutubename="Yatharth.com"
+
+let anothername=myYoutubename
+anothername="coder"
+
+console.log(anothername);
+console.log(myYoutubename);
+
+//******************************Heap(ek hi keval)***********************************//
+let UserOne={
+    email: "aau@gmail.com",
+    upi:"923810@ybl"
+}
+
+let userTwo=UserOne
+
+userTwo.email="hadi@gmail.com"
+
+console.log(UserOne.email);
+console.log(userTwo.email);
 
 
