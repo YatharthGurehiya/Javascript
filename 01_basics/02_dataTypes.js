@@ -10,7 +10,7 @@ let name = "hitesh"
 let age = 18
 let isLoggedIn = false
 
-// number => 2 to power 53
+// Number => 2 to power 53
 // bigint => a JavaScript data type used to store very large whole numbers that the normal Number type cannot represent accurately
 // string => should be used in the '' or "" but mainly preferred in the ""
 // boolean => true or false
