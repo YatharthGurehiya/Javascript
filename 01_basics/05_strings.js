@@ -2,7 +2,7 @@
 const name = "Yatharth"
 const repoCount = 50
 
-// console.log(name+repoCount+" Value"); //these days no one uses this method use the below one for modern
+console.log(name+repoCount+" Value"); //these days no one uses this method use the below one for modern
 
 console.log(`Hello my name is ${name} and my repo count is ${repoCount}`);  //stringinterpolation (Use this method)
 
@@ -181,10 +181,10 @@ console.log(gameName.length);  //for the length of the string
 // "Yatharthgurehiya"
 
 
-// console.log(gameName.toUpperCase()) //for the uppercase
-// // console.log(gameName.charAt(t)); //will give error
-// console.log(gameName.charAt(2)); //for position of the character
-// console.log(gameName.indexOf('t'))//for specific charater position
+console.log(gameName.toUpperCase()) //for the uppercase
+// console.log(gameName.charAt(t)); //will give error
+console.log(gameName.charAt(2)); //for position of the character
+console.log(gameName.indexOf('t'))//for specific charater position
 
 const newString=gameName.substring(0,6)
 console.log(newString); //it print the character between range specified
