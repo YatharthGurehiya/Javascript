@@ -27,7 +27,7 @@ console.log(undefined > 0);
 console.log(undefined < 0)
 
 
-// === 
+// === checks whether both the value and data type are the same
 console.log("2"===2);
 console.log(2===2);
 
