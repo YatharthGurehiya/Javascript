@@ -1,4 +1,4 @@
-"use scrict"; //teall whole file JS code as newer version
+"use strict"; //treats all whole file JS code as newer version
 
 //alert(3+3) only for browsers not in node js (it is used to give the alert in the browser)
 
