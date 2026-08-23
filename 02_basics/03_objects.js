@@ -3,7 +3,7 @@
 //singleton
 //Object.create
 
-//object laterals
+//object laterals ( this part is Object laterals)
 
 const mySym=Symbol("key1")
 
