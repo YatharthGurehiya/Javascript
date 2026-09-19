@@ -4,30 +4,30 @@ const coding = ["js", "ruby", "python", "java", "cpp"]
 
 // there are four types in which we can define the forEach Loop
 
-// coding.forEach(function (val){
-//     console.log(val)
-// })
+coding.forEach(function (val){
+    console.log(val)
+})
 
-// coding.forEach( (Item)=>{
-// // console.log(Item)
-// })
+coding.forEach( (Item)=>{
+console.log(Item)
+})
 
-// coding.forEach(Item => {
-//     console.log(Item);
+coding.forEach(Item => {
+    console.log(Item);
     
-// });
+});
 
-// function preintMe(item){
-//     console.log(item)
+function preintMe(item){
+    console.log(item)
 
-// }
+}
 
-// coding.forEach( preintMe)
+coding.forEach( preintMe)
 
-// coding.forEach( (item, index, arr)=>{
-//     console.log(item, index, arr);
+coding.forEach( (item, index, arr)=>{
+    console.log(item, index, arr);
     
-// } )
+} )
 
 
 const myCoding = [
